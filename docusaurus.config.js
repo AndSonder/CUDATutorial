@@ -63,8 +63,8 @@ const config = {
         ({
             metadata: [
                 { name: 'keywords', content: 'CUDA' },
-                { name: 'google-site-verification', content: 'rI6AJ6opyy43RCnFkrJtE5U-kufn37HuWdEVXmS43E' },
-                { name: 'baidu-site-verification', content: 'code-BWReuturyA' }
+                { name: 'google-site-verification', content: '599lXeH4x7aRJpxLRW8QxTVuthaBBF-SdmBDQ9GoWII' },
+                { name: 'baidu-site-verification', content: 'codeva-ugLOroWbb6' }
             ],
             navbar: {
                 title: 'CUDATutorial',
